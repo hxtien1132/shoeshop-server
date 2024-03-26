@@ -37,7 +37,7 @@ const products = [
     image: "/images/7.png",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
-    price: 89,
+    price: 37,
     countInStock: 3,
     rating: 4,
     numReviews: 4,
@@ -48,7 +48,7 @@ const products = [
     image: "/images/6.png",
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
-    price: 89,
+    price: 28,
     countInStock: 3,
     rating: 4,
     numReviews: 4,
@@ -104,10 +104,65 @@ const products = [
     description:
       "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
     price: 29,
-    countInStock: 0,
-    rating: 0,
+    countInStock: 60,
+    rating: 2,
     numReviews: 0,
     category: "Adidas",
+  },
+  {
+    name: "Corverse Red Heels Sandal",
+    image: "/images/11.png",
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+    price: 29,
+    countInStock: 80,
+    rating: 4,
+    numReviews: 0,
+    category: "Converse",
+  },
+  {
+    name: "Nike Black Heels Sandal",
+    image: "/images/12.png",
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+    price: 29,
+    countInStock: 0,
+    rating: 3,
+    numReviews: 0,
+    category: "Nike",
+  },
+  {
+    name: "Puma white Heels Sandal",
+    image: "/images/13.png",
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+    price: 29,
+    countInStock: 100,
+    rating: 4,
+    numReviews: 0,
+    category: "Puma",
+  },
+  {
+    name: "Jorda  Red Heels Sandal",
+    image: "/images/14.png",
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+    price: 29,
+    countInStock: 90,
+    rating: 2,
+    numReviews: 0,
+    category: "Jordan",
+  },
+  {
+    name: "Jordan Black Heels Sandal",
+    image: "/images/15.jpg",
+    description:
+      "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book",
+    price: 29,
+    countInStock: 30,
+    rating: 1,
+    numReviews: 0,
+    category: "Jordan",
   },
 ];
 

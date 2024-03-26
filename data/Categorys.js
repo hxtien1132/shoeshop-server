@@ -11,5 +11,8 @@ const category = [
   {
     name: "Converse",
   },
+  {
+    name: "Jordan",
+  },
 ];
 export default category;
